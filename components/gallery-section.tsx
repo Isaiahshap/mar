@@ -37,7 +37,6 @@ export function GallerySection() {
     <section id="gallery" className="bg-subtle-purple-tint px-6 py-40 sm:py-48">
       <div className="mx-auto max-w-6xl">
         <SectionHeading
-          eyebrow="Contact Sheet"
           title="Gallery"
           caption="Moments from stage, studio, and in-between."
           accentColor="purple"
